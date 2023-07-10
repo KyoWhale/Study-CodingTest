@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "stack": "cpp",
+        "deque": "cpp",
+        "__bit_reference": "cpp",
+        "__locale": "cpp",
+        "queue": "cpp",
+        "unordered_map": "cpp",
+        "memory": "cpp",
+        "__config": "cpp"
+    }
+}
